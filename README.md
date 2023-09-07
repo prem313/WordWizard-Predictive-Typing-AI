@@ -14,8 +14,6 @@ WordWizard is an advanced Predictive Typing AI powered by Natural Language Proce
 
 - **Customizable**: You can fine-tune the model with your own dataset to adapt it to specific domains or writing styles.
 
-## Getting Started
-
 ### Prerequisites
 
 To get started with WordWizard, make sure you have the following prerequisites installed:
